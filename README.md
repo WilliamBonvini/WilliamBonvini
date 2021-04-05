@@ -1,5 +1,5 @@
 ### Hi folks! 👋
-I'm a Computer Science student @ Politecnico di Milano focusing on Deep Learning applications on Computer Vision. 
+I'm a Computer Science student @ Politecnico di Milano focusing on Deep Learning applications in Computer Vision. 
 - 🔭 I’m currently working on my MSc thesis
 - 🌱 I’m currently learning tensorflow 2 / keras - multiple-view geometry in computer vision 
 - 👯 I’m looking to collaborate on dope/impactful ML projects
