@@ -1,7 +1,9 @@
 ### Hi folks! 👋
 I'm a Computer Science student @ Politecnico di Milano focusing on Deep Learning applications in Computer Vision. 
-- 🔭 I’m currently working on my MSc thesis
-- 🌱 I’m currently learning tensorflow 2 / keras - multiple-view geometry in computer vision 
+- 🔭 I’ve just finished my MSc thesis - Unsupervised Learning for Multi-Model Consensus Maximization
+- 🌱 I’m currently learning 
+  - Pytorch 
+  - Deep Learning in Computer Vision
 - 👯 I’m looking to collaborate on dope/impactful ML projects
 - 📫 How to reach me: william.bonvini@mail.polimi.it   
 
