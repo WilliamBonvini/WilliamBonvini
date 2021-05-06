@@ -1,5 +1,5 @@
 ### Hi folks! 👋
-I'm a Computer Science student @ Politecnico di Milano focusing on Deep Learning applications in Computer Vision. 
+I've just earned my MSc in Computer Science @ Politecnico di Milano and I'm currently focusing on Deep Learning applications in Computer Vision. 
 - 🔭 I’ve just finished my MSc thesis - Unsupervised Learning for Multi-Model Consensus Maximization
 - 🌱 I’m currently learning 
   - Pytorch 
