@@ -5,7 +5,7 @@ I've just earned my MSc in Computer Science @ Politecnico di Milano and I'm curr
   - Pytorch 
   - Deep Learning in Computer Vision
 - 👯 I’m looking to collaborate on dope/impactful ML projects
-- 📫 How to reach me: william.bonvini@mail.polimi.it   
+- 📫 How to reach me: william.bonvini@outlook.com   
 
 Cheers!
 
