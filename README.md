@@ -1,6 +1,6 @@
 ### Hi folks! 👋
-I've just earned my MSc in Computer Science @ Politecnico di Milano and I'm currently focusing on Deep Learning applications in Computer Vision. 
-- 🔭 I’ve just finished my MSc thesis - Unsupervised Learning for Multi-Model Consensus Maximization
+I'm a Computer Scientist from Politecnico di Milano and I'm currently focusing on Deep Learning applications in Computer Vision / Reinforcement Learning. 
+- 🔭 MSc thesis: Unsupervised Learning for Multi-Model Consensus Maximization
 - 🌱 I’m currently learning 
   - Pytorch 
   - Deep Learning in Computer Vision
