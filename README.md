@@ -8,7 +8,7 @@ I'm a Computer Scientist from Politecnico di Milano who likes to dive deep into 
 - 🔭 MSc thesis: Unsupervised Learning for Multi-Model Consensus Maximization
 - 👯 I’m looking to collaborate on dope/impactful ML projects
 - 📫 How to reach me: william.bonvini@outlook.com
-- :globe_with_meridians: Check out my [website](www.williambonvini.com)!   
+- :globe_with_meridians: Check out my [website](https://williambonvini.com)!   
 
 Cheers!
 
