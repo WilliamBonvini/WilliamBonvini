@@ -1,11 +1,14 @@
 ### Hi folks! 👋
-I'm a Computer Scientist from Politecnico di Milano and I'm currently focusing on Deep Learning applications in Computer Vision / Reinforcement Learning. 
-- 🔭 MSc thesis: Unsupervised Learning for Multi-Model Consensus Maximization
+I'm a Computer Scientist from Politecnico di Milano who likes to dive deep into the mathematics of machine learning models.
+
 - 🌱 I’m currently learning 
-  - Pytorch 
-  - Deep Learning in Computer Vision
+  - Topic Modeling techniques
+  - Graph Neural Networks
+
+- 🔭 MSc thesis: Unsupervised Learning for Multi-Model Consensus Maximization
 - 👯 I’m looking to collaborate on dope/impactful ML projects
-- 📫 How to reach me: william.bonvini@outlook.com   
+- 📫 How to reach me: william.bonvini@outlook.com
+- :globe_with_meridians: Check out [my website](www.williambonvini.com)!   
 
 Cheers!
 
