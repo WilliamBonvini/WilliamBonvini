@@ -2,7 +2,7 @@
 I'm a Computer Scientist who likes to dive deep into the mathematics of machine learning models.
 
 - :computer: Company: [Machine Learning Reply](https://www.reply.com/machine-learning-reply/it/)
-- :school: Politecnico di Milano (MSc, BSc)
+- :school: University: Politecnico di Milano (MSc, BSc)
 - 🔭 MSc thesis: Unsupervised Learning for Multi-Model Consensus Maximization
 - 👯 I’m looking to collaborate on dope/impactful ML projects
 - 📫 How to reach me: william.bonvini@outlook.com
