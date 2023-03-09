@@ -6,7 +6,7 @@ I'm a Computer Scientist who likes to dive deep into the mathematics of machine 
 - :school: **University** - Politecnico di Milano (MSc, BSc), Computer Science & Engineering
 - 🔭 **MSc thesis** - Unsupervised Learning for Multi-Model Consensus Maximization
 - 👯 Always happy to collaborate on dope/impactful ML/SE projects
-- 📫 How to reach me: william.bonvini@outlook.com
+- 📫 **Contacts** - william.bonvini@outlook.com
 
 Cheers!
 
