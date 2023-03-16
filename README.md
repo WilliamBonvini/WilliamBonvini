@@ -3,7 +3,7 @@ I'm a Computer Scientist who likes to dive deep into the mathematics of machine 
 
 - :globe_with_meridians: Check out my [website](https://williambonvini.com)!
 - :computer: **Company** - [Machine Learning Reply](https://www.reply.com/machine-learning-reply/it/)
-- :school: **University** - Politecnico di Milano (MSc, BSc), Computer Science & Engineering
+- :school: **University** - Politecnico di Milano (MSc, BSc) | Computer Science & Engineering
 - 🔭 **MSc thesis** - Unsupervised Learning for Multi-Model Consensus Maximization
 - 👯 Always happy to collaborate on dope/impactful ML/SE projects
 - 📫 **Contacts** - william.bonvini@outlook.com
