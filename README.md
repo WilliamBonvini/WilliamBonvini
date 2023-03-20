@@ -8,8 +8,6 @@ I'm a Computer Scientist who likes to dive deep into the mathematics of machine 
 - 👯 Always happy to collaborate on dope/impactful ML/SE projects
 - 📫 **Contacts** - william.bonvini@outlook.com
 
-Cheers!
-
 <!--
 **WilliamBonvini/WilliamBonvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
