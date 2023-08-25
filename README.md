@@ -7,7 +7,7 @@ I'm a Computer Scientist who likes to dive deep into the mathematics of machine 
 - 🔭 **Latest Research**
   - Quantum Eigenfaces: Linear Feature Mapping and Nearest Neighbor Classification with Outlier Detection
   - Unsupervised Learning for Multi-Model Consensus Maximization
-- 👯 Always happy to collaborate on dope/impactful ML/SE projects
+- 👯 Always happy to collaborate on impactful ML/SE projects
 - 📫 **Contacts** - william.bonvini@outlook.com
 
 <!--
