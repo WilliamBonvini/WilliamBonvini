@@ -1,23 +1,31 @@
 ### Hi folks! 👋
 I'm a Computer Scientist who likes to dive deep into the mathematics of machine learning models.
 
+<table border="0">
+  <tr>
+    <td valign="middle">
+
 - :globe_with_meridians: Check out my [website](https://williambonvini.com)
 - :school: **University** - Politecnico di Milano (MSc, BSc) | Computer Science & Engineering
 - 🔭 **Latest Research**
   - Quantum Eigenfaces: Linear Feature Mapping and Nearest Neighbor Classification with Outlier Detection
   - Unsupervised Learning for Multi-Model Consensus Maximization
 - 👯 Always happy to collaborate on impactful ML/SE projects
-- 📫 **Contacts** - william.bonvini@outlook.com
 
-<!--
-**WilliamBonvini/WilliamBonvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamBonvini&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=SCSS,TeX,HTML,VHDL,CSS,Makefile" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td valign="middle">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamBonvini&theme=tokyonight" width="100%" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=WilliamBonvini&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
