@@ -25,7 +25,7 @@ I'm a Computer Scientist who likes to dive deep into the mathematics of machine 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamBonvini&theme=tokyonight" width="100%" />
     </td>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=WilliamBonvini&theme=tokyonight" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=WilliamBonvini&rank_icon=github&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
