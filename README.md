@@ -14,7 +14,7 @@ I'm a Computer Scientist who likes to dive deep into the mathematics of machine 
 
     </td>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamBonvini&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=SCSS,TeX,HTML,VHDL,CSS,Makefile" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamBonvini&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=SCSS,TeX,HTML,VHDL,CSS,Makefile,jupyter%20notebook,Alloy,EJS" />
     </td>
   </tr>
 </table>
